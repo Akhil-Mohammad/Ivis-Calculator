@@ -1,0 +1,5 @@
+/* Home.jsx */
+.col-with-border {
+    border: 1px solid #ced4da; /* Adjust border color and thickness as needed */
+    padding: 10px; /* Adjust padding as needed */
+  }
